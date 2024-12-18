@@ -17,7 +17,7 @@ git pull origin main --rebase
 git push origin main
 
 Quite tedious if you may ask me. But it does the job in the end.
-######################################################################################################
+####################################################################################
 
 
 Now regarding the project files: 
